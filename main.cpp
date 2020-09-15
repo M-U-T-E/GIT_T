@@ -5,7 +5,8 @@ int main()
 {
     int a;
     int g[2];
-    cout<<"hello";
+    
+    cout<<"hello"<<endl;
     
     _getch();
     return 1;
