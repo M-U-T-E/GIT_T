@@ -8,8 +8,8 @@ int main()
     g[0] = 1;
     g[1] = 2;
 
-    cout<<"hello"<<endl;
-    
+    cout << "hello" << endl;
+
     _getch();
     return 1;
 }
